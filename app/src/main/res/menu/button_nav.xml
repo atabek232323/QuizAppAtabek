@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/main_LightFragment" android:icon="@drawable/home_vektor"
+    android:title="Home" />
+<item android:id="@+id/history_Fragment" android:icon="@drawable/map_vektor"
+    android:title="History" />
+    <item android:id="@+id/settings_Fragment" android:icon="@drawable/prof"
+        android:title="Settings" />
+
+</menu>
